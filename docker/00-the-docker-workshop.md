@@ -2,11 +2,8 @@
 
 #### by Vincent Sesto, Onur Yılmaz, Sathsara Sarathchandra, Aric Renzo e Engy Fouda
 
-<br>
 
 ## Configurando o ambiente
-
-***
 
 Requerimentos
 
@@ -18,8 +15,6 @@ Requerimentos
 Os comandos aqui apresentados foram testados e executados no Ubuntu 20.04 LTS.
 
 ## Instalação e configuração
-
-***
 
 Atualizando o gerenciador de pacotes:
 
