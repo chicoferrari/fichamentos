@@ -2,9 +2,6 @@
 
 ## Introdução ao PHP
 
-***
-
-
 PHP é uma linguagem do tipo server-side e assim como o JavaScript, é possível utilizar em conjunto com o HTML com diferença de que no JavaScript o código é executado pelo próprio navegador, enquanto no PHP, o código é executado no servidor.
 
 ### Vantagens
@@ -16,8 +13,6 @@ PHP é uma linguagem do tipo server-side e assim como o JavaScript, é possível
 * Reduz a carga do navegador, visto que os recursos são executados pelo servidor.
 
 ## Sintaxe e declarações
-
-***
 
 Um script em PHP é um conjunto de comandos que são executados em ordem e cada uma delas terminam em ponto e vírgula **(;)**.
 
@@ -59,8 +54,6 @@ $testVariable = 'three' // isso é um comentário e é ignorado quando executado
 ```
 
 ## Estrutura de controle
-
-***
 
 Assim como outras linguagens de programação, o PHP possui recursos que permitem alterar o fluxo de controle.
 
@@ -123,8 +116,6 @@ for ($count <= 10) {
 
 ## Arrays
 
-***
-
 São variáveis que contém valores múltiplos. Para criar um array em PHP usa-se colchetes **"[ ]"** contendo os valores separados por vírgula:
 
 ```php
@@ -161,8 +152,6 @@ $myArray[] = ‘five’ // neste caso, adiciona o elemento 'five' ao final da li
 ```
 
 ## Interação e formulários
-
-***
 
 Atualmente, as páginas web, além de serem geradas automaticamente, precisam ser interativas. Porém, para criar interatividade em PHP é preciso entender como as informações podem ser enviadas no momento da solicitação de uma nova página e pode ser feito de duas maneiras:
 
